@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "https://github.com/Jon-Biz/hn-jobs-chat"
+  site-url: "https://Jon-Biz.github.io/https://github.com/Jon-Biz/hn-jobs-chat"
+  description: "An LLM pipeline for interacting with HN jobs listings each month."
+  repo-branch: main
+  repo-url: "https://github.com/Jon-Biz/https://github.com/Jon-Biz/hn-jobs-chat"
