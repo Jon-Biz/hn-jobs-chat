@@ -1,0 +1,61 @@
+[
+    {
+        "isPosting": true,
+        "company": "Irth Solutions",
+        "job_title": "Senior Software Engineer",
+        "job_requirements": "* C# development experience using .NET Core, WebAPI, and Entity Framework\n* Experience building browser applications using Angular and Typescript\n* Strong relational database experience with Postgres (preferred) or MS SQL Server including SQL, database functions, indexing, and performance tuning\n* Kubernetes, Docker, Linux",
+        "contact_url": "https://apply.workable.com/irth-solutions/j/33AD66BA3A/"
+    },
+    {
+        "isPosting": true,
+        "company": "Tandem Health",
+        "job_title": "Software Engineers",
+        "job_requirements": "On-site in Stockholm, Sweden | Full time",
+        "contact_url": "john.moberg@tandemhealth.se"
+    },
+    {
+        "isPosting": true,
+        "company": "Rubie",
+        "job_title": "Founding engineer",
+        "job_requirements": "Experience with complex software (ERPs, CRMs, etc), ability to complete reverse engineering challenge",
+        "contact_url": "https://ReverseEngineerThisSite.com"
+    },
+    {
+        "isPosting": true,
+        "company": "MongoDB",
+        "job_title": "Software Engineer, Java (Database Experience Team)",
+        "job_requirements": "experienced Java developer who has expertise in building applications with Hibernate ORM (even better if you are familiar with hibernate-ogm)",
+        "contact_url": "https://grnh.se/e29caf031us"
+    },
+    {
+        "isPosting": true,
+        "company": "VALIS Insights",
+        "job_title": "Senior Backend Engineer & Full-Stack Engineer",
+        "job_requirements": "Execution-focused engineers who can deliver complex features with autonomy",
+        "contact_url": "caleb.ralphs@valisinsights.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Duolingo",
+        "job_title": "Multiple Roles",
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us"
+    },
+    {
+        "isPosting": false
+    },
+    {
+        "isPosting": true,
+        "company": "Gattaca",
+        "job_title": "Founding Engineer",
+        "job_requirements": "Searching for an A+ developer/teammate. We do not care about stack, education, age, location, or past titles. All that matters is your heart and whether you can ship faster than us.",
+        "contact_url": "founders@trygattaca.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Parakey",
+        "job_title": "Fullstack Developer",
+        "job_requirements": "Experienced with Typescript/Javascript (React.js), Comfortable with backend (Node.js and MongoDB), Preferably experienced with Cloud/AWS, continuous integration/deployment, and other programming languages",
+        "contact_url": "https://join.parakey.co/"
+    }
+]
