@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "https://github.com/Jon-Biz/hn-jobs-chat",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "https://github.com/Jon-Biz/hn-jobs-chat"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "https://github.com/Jon-Biz/hn-jobs-chat",
+    "section": "Install",
+    "text": "Install\npip install https://github.com/Jon_Biz/hn_jobs_chat",
+    "crumbs": [
+      "https://github.com/Jon-Biz/hn-jobs-chat"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "https://github.com/Jon-Biz/hn-jobs-chat",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "https://github.com/Jon-Biz/hn-jobs-chat"
+    ]
+  },
+  {
+    "objectID": "clean.html",
+    "href": "clean.html",
+    "title": "Evals are all you need",
+    "section": "",
+    "text": "We start with a test item\n\ntestItems = [{'hnuser': 'grantmuller',\n'date': '2024-07-08T22:39:26',\n'comment': 'We build software that improve resilience and reduce risk to critical infrastructure that millions of people and businesses rely on each day. Our systems handle millions of requests a day, coordinating activities between critical infrastructure providers, contract locators, excavators, and a variety of other stakeholders throughout North America.\\nWe’re growing our team and are in immediate need for a Senior Software Engineer. Here are some notes on the technical requirements:\\n* C# development experience using .NET Core, WebAPI, and Entity Framework\\n* Experience building browser applications using Angular and Typescript\\n* Strong relational database experience with Postgres (preferred) or MS SQL Server including SQL, database functions, indexing, and performance tuning\\n* Kubernetes, Docker, Linux\\nApply here: https://apply.workable.com/irth-solutions/j/33AD66BA3A/\\nWe’re growing, so new positions will open up frequently. Please check back with if this one doesn’t fit your background\\nreply'}]\n\nWe need to determine: * company name * company location * contact info\nIf any information isn’t present, we need to make sure that we don’t hallucinate.\n\nimport os\nimport openai\n\n# openai.api_base = \"https://openrouter.ai/api/v1\"\nopenai.api_key = os.environ.get('OPENAI_API_KEY')\n\nIs the posting a job posting?\n\ndef getResponse(text: str):\n    response = openai.chat.completions.create(\n        model=\"gpt-3.5-turbo\",\n        messages=[{\"role\": \"user\", \"content\": text}],\n    )\n\n    result = {\n        \"input_text\": text,\n        \"text\": response.choices[0].message.content\n    }\n\n    return result\n\n\nimport json\n\ndef toJson(response, repromptNum=None):\n    # try catch here. If item fails, rerun it. If it fails more than 3 times, return None\n    try:\n        return json.loads(response.replace('\\n',''))\n    except:\n        if repromptNum == None:\n            repromptNum = 0\n        \n        if repromptNum &gt; 3:\n            return '{ \"errpr\": \"Could not receive valid json: Too many reprompts\",\"item\": '+item+'}'\n        \n        repromptNum += 1\n        return reprompt(response, repromptNum)\n    \ndef reprompt(item, repromptNum=None):\n    newPrompt = 'Your response: \\n\\n'+item.text+'was not valid json. Please try again. Here is the original request:\\n' + item\n\n    response = getResponse(newPrompt)\n\n    print('response')\n    return toJson(response['text'], repromptNum=repromptNum)\n\n\ndef extractData(item, resultItem): \n    text = \"From the following job description, extract the name of the company, the job title, job requirements and how they want to be contacted: \" + testItem['comment'] + \"\\n\\n-----------\\n\\nReturn the information as a json object with the following keys: 'company', 'job_title', 'job_requirements','contact_url'. If you can't find a particular piece of information, return 'Unavailable' for the value of the key.\"\n\n    result = getResponse(text)\n\n    response = toJson(result['text'])\n\n    print(resultItem)\n    # TODO: add validation to check if the response is valid\n    resultItem['company'] = response['company']\n    resultItem['job_title'] = response['job_title']\n    resultItem['job_requirements'] = response['job_requirements']\n    resultItem['contact_url'] = response['contact_url']\n\n\ndef isJob(item, resultItem):\n    text='Is the following message a job posting, or something else? If it is a job posting, reply { \"isPosting: true }. If it is not a job posting, reply with { \"isPosting\": false }\\n-----------------\\n'+ item['comment']\n\n    result = getResponse(text)\n    resp = toJson(result['text'])\n \n    resultItem['isPosting'] = resp['isPosting']\n\n    return resultItem['isPosting']\n\n\ndef processItem(item):\n    resultItem = { 'isPosting': 'whoops'}\n\n    if isJob(item, resultItem):\n        extractData(item, resultItem)\n\n    return resultItem\n\n\nresultData = []\n\nfor item in testItems:\n    datum = processItem(item)\n    resultData.append(datum)\n\n{ \"isPosting\": true }\n{'isPosting': True}\n{\n    \"company\": \"Irth Solutions\",\n    \"job_title\": \"Senior Software Engineer\",\n    \"job_requirements\": {\n        \"C# development experience\": \"using .NET Core, WebAPI, and Entity Framework\",\n        \"Building browser applications experience\": \"using Angular and Typescript\",\n        \"Relational database experience\": \"with Postgres (preferred) or MS SQL Server including SQL, database functions, indexing, and performance tuning\",\n        \"Additional requirements\": \"Kubernetes, Docker, Linux\"\n    },\n    \"contact_url\": \"https://apply.workable.com/irth-solutions/j/33AD66BA3A/\"\n}\n\n\n\nimport json\n\nwith open('../postData.json', 'w', encoding='utf-8') as f:\n    json.dump(resultData, f, ensure_ascii=False, indent=4)",
+    "crumbs": [
+      "Evals are all you need"
+    ]
+  },
+  {
+    "objectID": "scrape.html",
+    "href": "scrape.html",
+    "title": "Scrape HN",
+    "section": "",
+    "text": "who_is_hiring = \"https://news.ycombinator.com/item?id=40846428\"\n\n\n#create an instance of the Service object\nservice = Service(executable_path=ChromeDriverManager().install())\n#start Chrome using the service keyword\ndriver = webdriver.Chrome(service=service)\n\n\ndriver.get(who_is_hiring)\n\njob_postings = driver.find_element(By.CSS_SELECTOR, \"td\")\n\njob_postings.text\n\n\n# element(By.CSS_SELECTOR, \"input[id='username']\")\n# password = driver.find_element(By.CSS_SELECTOR, \"input[id='password']\")\n\n\n---------------------------------------------------------------------------\nAttributeError                            Traceback (most recent call last)\nCell In[63], line 3\n      1 driver.get(who_is_hiring)\n----&gt; 3 job_postings = driver.select_elements(By.CSS_SELECTOR, \"td.default\")\n      5 job_postings.text\n      8 # element(By.CSS_SELECTOR, \"input[id='username']\")\n      9 # password = driver.find_element(By.CSS_SELECTOR, \"input[id='password']\")\n\nAttributeError: 'WebDriver' object has no attribute 'select_elements'\n\n\n\n\ndriver.quit()",
+    "crumbs": [
+      "Scrape HN"
+    ]
+  }
+]
