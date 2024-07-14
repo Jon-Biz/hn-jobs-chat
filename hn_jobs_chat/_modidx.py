@@ -5,4 +5,9 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Jon-Biz.github.io',
                 'git_url': 'https://github.com/Jon-Biz/hn-jobs-chat',
                 'lib_path': 'hn_jobs_chat'},
-  'syms': {'hn_jobs_chat.core': {'hn_jobs_chat.core.foo': ('core.html#foo', 'hn_jobs_chat/core.py')}}}
+  'syms': { 'hn_jobs_chat.core': {'hn_jobs_chat.core.foo': ('core.html#foo', 'hn_jobs_chat/core.py')},
+            'hn_jobs_chat.scraper': { 'hn_jobs_chat.scraper._getPosts': ('scrape.html#_getposts', 'hn_jobs_chat/scraper.py'),
+                                      'hn_jobs_chat.scraper.loadPosts': ('scrape.html#loadposts', 'hn_jobs_chat/scraper.py'),
+                                      'hn_jobs_chat.scraper.savePosts': ('scrape.html#saveposts', 'hn_jobs_chat/scraper.py'),
+                                      'hn_jobs_chat.scraper.scrape': ('scrape.html#scrape', 'hn_jobs_chat/scraper.py')},
+            'hn_jobs_chat.testing': {'hn_jobs_chat.testing.connect': ('testing.html#connect', 'hn_jobs_chat/testing.py')}}}
