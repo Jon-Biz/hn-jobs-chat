@@ -1,0 +1,957 @@
+[
+    {
+        "isPosting": true,
+        "company": "Quatt.io",
+        "job_title": "Head of Software",
+        "job_requirements": "Fixme",
+        "contact_url": "https://www.quatt.io/working-at-quatt"
+    },
+    {
+        "isPosting": true,
+        "company": "PlantingSpace",
+        "job_title": "Engineers with state of the art LLM and transformer model experience",
+        "job_requirements": "We are continuously looking for strong software engineers who are up for a challenge and a steep learning curve. You’ll be exposed to cutting edge research in Bayesian statistics, dynamical systems, information theory, category theory, and more.",
+        "contact_url": "https://planting.space/joinus/"
+    },
+    {
+        "isPosting": true,
+        "company": "Disney Streaming",
+        "job_title": "Lead/Senior Software Engineer",
+        "job_requirements": "Well-versed technologist and specialist in field, interested in innovating and adopting new patterns and technologies. Teams own their own processes, technologies, and design solutions for the long term.",
+        "contact_url": "https://jobs.disneycareers.com/search-jobs"
+    },
+    {
+        "isPosting": true,
+        "company": "Stainless",
+        "job_title": "Generalist Engineers, First AE",
+        "job_requirements": "exceptionally productive, thoughtful, tasteful, and kind people with a passion for making software development better for everyone",
+        "contact_url": "alex at stainlessapi.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Hudson River Trading",
+        "job_title": "Full Stack Developer | London",
+        "job_requirements": "Experienced FPGA Verification Engineer",
+        "contact_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=57407..."
+    },
+    {
+        "isPosting": true,
+        "company": "Supabase",
+        "job_title": "Cloud Infra Engineer (security focus) / Customer Success Architect (Americas time-zone) / Growth Marketer",
+        "job_requirements": "Job requirements are available at the provided job links",
+        "contact_url": "https://supabase.com/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "CrazyGames",
+        "job_title": "Product Manager",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://crazygames.recruitee.com/o/remote-product-mgr"
+    },
+    {
+        "isPosting": true,
+        "company": "SmarterDx",
+        "job_title": "Multiple roles",
+        "job_requirements": "Senior Machine Learning Engineers/MLOps, Solutions Engineers, FE SWEs (React), Marketing (Digital and SDR), Sales, Head of Customer Success",
+        "contact_url": "hiring@smarterdx.com"
+    },
+    {
+        "isPosting": true,
+        "company": "ElectricSQL",
+        "job_title": "Product Advocate / Engineer, Staff Engineer (Elixir / Typescript), Systems Engineer (C / WASM)",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://electric-sql.com/about/jobs"
+    },
+    {
+        "isPosting": true,
+        "company": "Defense MicroElectronics Activity (DMEA)",
+        "job_title": "RF, Hardware Design, Software, Embedded Software Engineers",
+        "job_requirements": "Must be a US citizen. Must be able to achieve and maintain a security clearance.",
+        "contact_url": "DMEA-hnjobs at groups.mail.mil"
+    },
+    {
+        "isPosting": true,
+        "company": "Better Stack",
+        "job_title": "Full-stack Engineer or Frontend Engineer",
+        "job_requirements": "EU or remote in UTC ± 3h",
+        "contact_url": "https://betterstack.com/careers/fullstack-engineer"
+    },
+    {
+        "isPosting": true,
+        "company": "Kagi",
+        "job_title": "Full & Part Time Developer",
+        "job_requirements": "Primary language is Crystal, developers who share our values",
+        "contact_url": "hello@kagi.com"
+    },
+    {
+        "isPosting": true,
+        "company": "DASH Tech Integrated Circuits",
+        "job_title": "Embedded Systems Engineer",
+        "job_requirements": "Participate in the definition of architecture and implementation of designs in both prototype and commercial products, demonstrate good development practices and seamless collaboration, deliver all embedded software from ASIC boot ROM and successive bootloaders, low-level device drivers, to high-level, complex hardware/software DSP systems",
+        "contact_url": "jacob.holtom@dashtechic.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Close",
+        "job_title": "Multiple Product & Engineering Roles",
+        "job_requirements": "Experienced individuals in the roles of Senior/Staff Backend Engineer (Python), Senior/Staff Frontend Engineer (React/TypeScript), Director of Product",
+        "contact_url": "Unavailable"
+    },
+    {
+        "isPosting": true,
+        "company": "Column",
+        "job_title": "Software Eng (Product), Software Eng (Infrastructure), Software Eng (Internal Tools)",
+        "job_requirements": "Product engineer: React, Go; Infra engineer: Go, Kubernetes, AWS; Junior engineer: JS, Go",
+        "contact_url": "https://column.com/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "Layer",
+        "job_title": "Founding engineer",
+        "job_requirements": "Excited about building a company and team as well as building better software for SMBs. Well funded by top tier investors and live with hundreds of small businesses.",
+        "contact_url": "daniel@layerfi.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Draft&Goal",
+        "job_title": "Full-Stack Developer",
+        "job_requirements": "You will be responsible for all aspects of the development process of our web platform, from building user interfaces to designing and implementing backend services. You'll work on a stack of technologies, including React/TypeScript/NextJS for the front-end, Python and Sql for the back-end, and deploy to GCP and AWS using Docker and Kubernetes.",
+        "contact_url": "https://ca.indeed.com/job/senior-full-stack-developer-ddb96a"
+    },
+    {
+        "isPosting": true,
+        "company": "Stellar Science",
+        "job_title": "Hybrid USA Washington DC, Albuquerque NM, Dayton OH",
+        "job_requirements": "U.S. citizenship required",
+        "contact_url": "https://www.stellarscience.com/careers/"
+    },
+    {
+        "isPosting": true,
+        "company": "Friendly Captcha",
+        "job_title": "Infrastructure Engineer",
+        "job_requirements": "Good knowledge of modern DevOps/SRE practices is expected (IaC, GitOps, etc...)",
+        "contact_url": "https://friendlycaptcha.homerun.co/infrastructure-engineer"
+    },
+    {
+        "isPosting": true,
+        "company": "Tulip",
+        "job_title": "Head of Product Management",
+        "job_requirements": "lead the Tulip Product Management team and work across product and engineering to identify areas of growth and scale for our existing products and beyond",
+        "contact_url": "jobs [at] tulip [dot] co"
+    },
+    {
+        "isPosting": true,
+        "company": "Fieldwire",
+        "job_title": "Engineering Manager - Android",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://www.fieldwire.com/job/7233601002/?gh_jid=7233601002"
+    },
+    {
+        "isPosting": true,
+        "company": "Interactive Brokers",
+        "job_title": "Senior Python Developer",
+        "job_requirements": "Experience with Object oriented design, design patterns, building systems, and SQL a plus.",
+        "contact_url": "https://boards.greenhouse.io/ibkr/jobs/6744937002"
+    },
+    {
+        "isPosting": true,
+        "company": "Sitewire",
+        "job_title": "Full Stack Rails Engineer",
+        "job_requirements": "Experienced and entrepreneurial Full-Stack Rails Engineer (senior or above). Experience with 3D graphics, machine learning, or mobile are all pluses.",
+        "contact_url": "https://wellfound.com/l/2zf9K9"
+    },
+    {
+        "isPosting": true,
+        "company": "Hatchet",
+        "job_title": "Founding Engineer",
+        "job_requirements": "Contribute across the entire codebase with expertise in Typescript/React, Go, and PostgreSQL",
+        "contact_url": "email alexander [at] hatchet [dot] run"
+    },
+    {
+        "isPosting": true,
+        "company": "Getro",
+        "job_title": "Senior Backend/Full Stack Engineer",
+        "job_requirements": "Must-Haves: 7+ years in software development, Ruby expertise, and proficiency with a modern frontend framework (if applying for full stack). And you should be located within UTC-3 to UTC+1 timezones. Experience with ML/AI, React, and developing SaaS products are nice to haves.",
+        "contact_url": "thomas@getro.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Juniper",
+        "job_title": "Senior Software Engineer",
+        "job_requirements": "Experience in building end-to-end billing systems, familiarity with EHR systems, ability to work with AWS and Stripe",
+        "contact_url": "chris@juniperplatform.com"
+    },
+    {
+        "isPosting": true,
+        "company": "ChartMogul",
+        "job_title": "Senior Full Stack Engineer",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://jobs.chartmogul.com/o/senior-full-stack-engineer-del..."
+    },
+    {
+        "isPosting": true,
+        "company": "Solar Monkey",
+        "job_title": "Frontend Engineer",
+        "job_requirements": "Experience with React & Redux, front-end development skills, ability to work full-time",
+        "contact_url": "https://jobs.solarmonkey.nl/o/frontend-engineer-editors?utm_..."
+    },
+    {
+        "isPosting": true,
+        "company": "Chainlink Labs",
+        "job_title": "Multiple Roles",
+        "job_requirements": "Location agnostic, but some working hours overlapping with Eastern Standard Time (EST)",
+        "contact_url": "https://forms.gle/ELS3mr46fYZkyDQ79"
+    },
+    {
+        "isPosting": true,
+        "company": "Mavryk.org",
+        "job_title": "Senior Frontend Engineer & Senior Full-Stack Developer",
+        "job_requirements": "Ideal candidate has multiple years of experience of building decentralized applications for different blockchains",
+        "contact_url": "info@mavryk.io"
+    },
+    {
+        "isPosting": true,
+        "company": "Sourcegraph",
+        "job_title": "Machine Learning Engineer, Full-stack Engineer, Support Engineer, Developer Advocate, Enterprise Product Manager",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://grnh.se/0572f98b4us"
+    },
+    {
+        "isPosting": true,
+        "company": "Sentinel Devices",
+        "job_title": "founding software engineer and AI/ML engineer",
+        "job_requirements": "Experience in software engineering and AI/ML roles",
+        "contact_url": "hello@sentineldevices.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Orb",
+        "job_title": "Software Engineer, Infrastructure Engineer, SRE",
+        "job_requirements": "Full Time",
+        "contact_url": "https://jobs.ashbyhq.com/orb/2b527d31-12c5-41e4-80fc-8b63e36..."
+    },
+    {
+        "isPosting": true,
+        "company": "New Public",
+        "job_title": "Software Engineer",
+        "job_requirements": "Experience shipping social products, ability to work anywhere in the stack, deep interest in helping people who see the world differently understand each other and work productively together",
+        "contact_url": "https://newpublic.org/jobs/software-engineer-psi"
+    },
+    {
+        "isPosting": true,
+        "company": "FullStory",
+        "job_title": "Senior Software Engineer",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://www.fullstory.com/careers/jobs/55f71333-decb-4c56-be..."
+    },
+    {
+        "isPosting": true,
+        "company": "Tandem Health",
+        "job_title": "Software Engineers",
+        "job_requirements": "Experience with health-tech, frontend, infrastructure, security, LLMs or ASR is especially meritorious.",
+        "contact_url": "john.moberg@tandemhealth.se"
+    },
+    {
+        "isPosting": true,
+        "company": "Uncountable",
+        "job_title": "Full-Stack Engineers",
+        "job_requirements": "Engineers who can spearhead the development of the Uncountable Web Platform. The position is heavily product-driven and comes with challenges across the stack.",
+        "contact_url": "jason@uncountable.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Silkline",
+        "job_title": "Founding Engineer",
+        "job_requirements": "Ambitious full-stack engineer with experience in Typescript, Next, Vercel, GraphQL, Hasura, Postgres, Python, Dagster, Airbyte, and Pulumi.",
+        "contact_url": "https://jobs.gem.com/silkline/am9icG9zdDpU0EO1bPrHEI3o2x1NXD..."
+    },
+    {
+        "isPosting": true,
+        "company": "University of Luxembourg",
+        "job_title": "High Performance Computing (HPC) Infrastructure and architecture engineer",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://recruitment.uni.lu/en/details.html?nPostingTargetID=..."
+    },
+    {
+        "isPosting": true,
+        "company": "Vannevar Labs",
+        "job_title": "Engineer",
+        "job_requirements": "TS/SCI clearance within the past 3 years",
+        "contact_url": "https://boards.greenhouse.io/vannevarlabs"
+    },
+    {
+        "isPosting": true,
+        "company": "Charge Robotics",
+        "job_title": "Senior Mechanical Engineer",
+        "job_requirements": "Fast-paced prototype development with software and hardware components, Making a positive climate impact through your work, Hacking on massive construction equipment",
+        "contact_url": "https://www.workatastartup.com/jobs/64008"
+    },
+    {
+        "isPosting": false
+    },
+    {
+        "isPosting": true,
+        "company": "Invisible",
+        "job_title": "Platform Operations Engineer",
+        "job_requirements": "Experience with automation tools such as Zapier or IFFT, knowledge of technologies like Kubernetes, GCP, Python, Django, Typescript, React, Next.js",
+        "contact_url": "https://www.invisible.co/technology-careers/"
+    },
+    {
+        "isPosting": true,
+        "company": "Ideal Medtech",
+        "job_title": "Senior Systems Engineer",
+        "job_requirements": "Experience developing medical devices in the US or European Union. Familiarity with standards such as 60601, 62304, FHIR. Skills in Medical Device Cybersecurity, Firmware Development, Distributed Computing, etc.",
+        "contact_url": "Unavailable"
+    },
+    {
+        "isPosting": true,
+        "company": "Monumental",
+        "job_title": "Mechanical engineers and multiple software engineering roles (product, controls, and machine vision)",
+        "job_requirements": "Full Time, Onsite",
+        "contact_url": "https://www.monumental.co/jobs or email us at iwanttojoin@monumental.co"
+    },
+    {
+        "isPosting": true,
+        "company": "Railway",
+        "job_title": "Full-stack Engineering (Product), Platform Engineering (Infra)",
+        "job_requirements": "The problems are complex: home-rolled hypervisors, cut-above container orchestration, over/under/whateverlay networks, virtio device drivers, edge proxies, IAM that doesn't suck, kitchen sinks - we need to build it and we're looking for likeminded individuals who think this stuff is fun.",
+        "contact_url": "https://railway.app/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "Sourcetable",
+        "job_title": "Senior/Staff level product engineer (Python + React)",
+        "job_requirements": "San Francisco based, experienced team with prior success, hard engineering problems to solve, AI experience preferred",
+        "contact_url": "https://sourcetable.com/jobs"
+    },
+    {
+        "isPosting": true,
+        "company": "Rollbar",
+        "job_title": "Senior Software Engineer, Full-stack",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://rollbar.com/careers/"
+    },
+    {
+        "isPosting": true,
+        "company": "Upbound",
+        "job_title": "Tech Lead, API",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://grnh.se/b6df8abf4us"
+    },
+    {
+        "isPosting": true,
+        "company": "Klara Systems",
+        "job_title": "Technical Project Manager",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://klarasystems.com/careers/technical-project-manager-o..."
+    },
+    {
+        "isPosting": true,
+        "company": "Numeral",
+        "job_title": "Infrastructure Software Engineer",
+        "job_requirements": "Tech Stack: Docker, PostgreSQL, Redis, GitHub Actions, Terraform, etc. Competitive salary and equity package. Remote-first culture with flexible working hours. Opportunity to work on challenging problems with a talented team.",
+        "contact_url": "https://www.ycombinator.com/companies/numeral/jobs/0A0z8tE-i..."
+    },
+    {
+        "isPosting": true,
+        "company": "FlowDeploy",
+        "job_title": "Product Engineer, Bioinformatics Engineer",
+        "job_requirements": "Curiosity matters more than domain-specific experience in bioinformatics, understanding if what you've built solves a problem requires talking to users and understanding them",
+        "contact_url": "noah@flowdeploy.com"
+    },
+    {
+        "isPosting": false
+    },
+    {
+        "isPosting": true,
+        "company": "Taylor.solar",
+        "job_title": "Senior Frontend Developer",
+        "job_requirements": "Xamarin/Maui skills, discerning eye for design and user experience",
+        "contact_url": "j.noordzij@taylor.solar"
+    },
+    {
+        "isPosting": true,
+        "company": "Flink Robotics",
+        "job_title": "Reinforcement Learning Engineer for Robotic Manipulation",
+        "job_requirements": "Join our highly talented and motivated team to build the next generation of software intelligence that transforms any robot into a plug-n-play automation solution for material handling. Apply cutting edge technologies to solve real world problems, achieving unprecedented reliability and robustness. Fast-paced, goal-driven team of world-class experts in vision, control and artificial intelligence.",
+        "contact_url": "https://flink-.notion.site/RL-Engineer-Robotic-Manipulation-..."
+    },
+    {
+        "isPosting": true,
+        "company": "Lanai",
+        "job_title": "Software Engineers (Backend, Full-stack, Data/Machine Learning) of all levels",
+        "job_requirements": "We are looking for team members who are excited to harness the best of AI to help us build a product and culture where our team and customers can work on the leading edge. We're leveraging the most modern development tools and practices to ensure a productive and fun environment where everyone is inspired to do their best work. We are working with a modern, cloud-native stack with a focus on AWS, EKS, ReactJS, NestJS, GraphQL, Postgres, Hashicorp Vault, Python, Golang, and AWS Sagemaker.",
+        "contact_url": "https://www.getlanai.com/join-us"
+    },
+    {
+        "isPosting": true,
+        "company": "Streak",
+        "job_title": "Staff Frontend Engineer",
+        "job_requirements": "High agency and experienced frontend engineers",
+        "contact_url": "https://www.streak.com/careers#benefits"
+    },
+    {
+        "isPosting": true,
+        "company": "Stream",
+        "job_title": "Multiple Positions",
+        "job_requirements": "Full Time | Visa Sponsorship",
+        "contact_url": "https://getstream.io/team/#jobs"
+    },
+    {
+        "isPosting": true,
+        "company": "Qventus",
+        "job_title": "Engineering / Product",
+        "job_requirements": "Software engineering generalist with experience building products powered by AI models. 5+ yrs working with Python, SQL, AWS, Snowflake, DBT. 3+ yrs working with Python, SQL, AWS, Snowflake, DBT. Previous Healthcare/ Health tech experience.",
+        "contact_url": "https://jobs.ashbyhq.com/qventus?utm_source=DQpNjMYvxb"
+    },
+    {
+        "isPosting": true,
+        "company": "Amazon",
+        "job_title": "Senior + Mid Level System Development Engineers",
+        "job_requirements": "Experience in large scale system development",
+        "contact_url": "https://amazon.jobs/en/jobs/2561093/senior-system-developmen..."
+    },
+    {
+        "isPosting": true,
+        "company": "Trellis",
+        "job_title": "AI/ML Engineer",
+        "job_requirements": "Senior/staff ML experience; Proficiency in Python/Django, AWS, Postgres, Elasticsearch, Redis",
+        "contact_url": "https://jobs.lever.co/trellis/b76fa20e-8bf4-4d6e-a716-200f36..."
+    },
+    {
+        "isPosting": true,
+        "company": "Seshet Technologies",
+        "job_title": "Founding Engineer",
+        "job_requirements": "Looking for a talented full-stack developer with Vue3 on the front-end experience and python or ruby experience on the back-end. Strong data structure and algorithms skills required, along with comfort with recursive and functional programming styles (AI skills a plus).",
+        "contact_url": "jobs@seshet.tech"
+    },
+    {
+        "isPosting": true,
+        "company": "LeagueApps",
+        "job_title": {
+            "Engineering Manager": "https://grnh.se/f622dccd3us",
+            "Senior Fullstack Engineer": "https://grnh.se/cb8ca0143us",
+            "Business Development Representative (New York Only)": "https://grnh.se/b2a469af3us"
+        },
+        "job_requirements": "Full-time | Office in NYC, or Remote almost anywhere in US",
+        "contact_url": "https://grnh.se/b1bedbd53us"
+    },
+    {
+        "isPosting": true,
+        "company": "ForAllSecure",
+        "job_title": "Software Engineer Positions",
+        "job_requirements": {
+            "Senior Software Engineer (Analysis)": "Experience in systems-level programming in Linux and proficient in Rust, Python, and/or C/C++ development",
+            "Software Engineer (Platform)": "Experience programming in Python and Typescript/Javascript"
+        },
+        "contact_url": "mayhem.security/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "Jito Labs",
+        "job_title": "Sr. Smart Contract Engineer",
+        "job_requirements": {
+            "Responsibilities": [
+                "Architect Solana programs using Solana native and Anchor programming models",
+                "Build safe, secure, and performant code",
+                "Write public-facing test plans and documentation for the code you’ve produced",
+                "Build substantial testing infrastructure to ensure code is following a defined specification",
+                "Collaborate with the team and customers to leverage internal knowledge and tooling",
+                "Drive features and products from beginning to end with extreme ownership",
+                "Comfortably dive deep into performance bottlenecks and debug problems across the entire stack"
+            ],
+            "Qualifications": [
+                "5+ years of systems programming experience writing code in Rust, C, or C++",
+                "Multiple Solana programs written in Solana native programming or using the Anchor framework",
+                "Excellent communication and collaboration skills",
+                "Experience wrangling complex problems into simple solutions",
+                "Worked at a <50 person startup"
+            ],
+            "Nice to have": [
+                "Security background",
+                "Knowledge of DeFi landscape"
+            ],
+            "Benefits": [
+                "Above market compensation and multiple forms of equity",
+                "All-expenses-paid team retreats and conferences",
+                "Unlimited PTO",
+                "Weekly meal voucher"
+            ]
+        },
+        "contact_url": "www.jito.wtf"
+    },
+    {
+        "isPosting": true,
+        "company": "Jam.dev",
+        "job_title": "Staff Fullstack Engineer & AI Product Engineer",
+        "job_requirements": "Experience building highly performant front-end apps. Stack: React/Typescript and MobX (MST) on the frontend, and Node/GraphQL across our backend.",
+        "contact_url": "https://jam.dev/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "All3D.ai",
+        "job_title": "Machine Learning Engineer",
+        "job_requirements": "Background in diffusion models is a requirement",
+        "contact_url": "kaiser@all3d.ai"
+    },
+    {
+        "isPosting": true,
+        "company": "BACtrack",
+        "job_title": "Senior Python Engineer",
+        "job_requirements": "Experience working in Python on AWS, building APIs, and working with large datasets",
+        "contact_url": "Email: Eric.Willis@bactrack.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Doowii",
+        "job_title": "Senior Backend Software Engineer",
+        "job_requirements": "Must-Haves: - Bachelor's in Computer Science (or related) with 5+ years in engineering. - Skills in Python, Java, SQL, plus cloud and server management know-how. - Independent problem-solving and a knack for cutting through ambiguity. If you've got a Master’s, are into EdTech, have startup experience, or have dabbled in advanced data analytics tech, we're especially keen to hear from you.",
+        "contact_url": "https://jobs.ashbyhq.com/Doowii/609a13f1-12ff-4fbf-b058-0889..."
+    },
+    {
+        "isPosting": true,
+        "company": "Speakeasy",
+        "job_title": "Product Engineers (Full Stack), Founding Designer, Developer Advocate",
+        "job_requirements": "Experience in developer-focused UX building with code generation, familiarity with languages such as TypeScript and GoLang, willingness to travel a few times per quarter",
+        "contact_url": "https://jobs.ashbyhq.com/Speakeasy"
+    },
+    {
+        "isPosting": true,
+        "company": "Microsoft",
+        "job_title": "Senior / Principal Software Dev",
+        "job_requirements": "Senior (7+ yrs exp) or Principal (15+ yrs exp)",
+        "contact_url": "Email is my HN username @microsoft.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Steer",
+        "job_title": "Senior Platform Engineer - Kubernetes, AWS",
+        "job_requirements": {
+            "Kubernetes": "4 years",
+            "AWS": "4 years",
+            "Terraform": "4 years",
+            "CI/CD": "Github Actions preferred",
+            "Programming language": "Go preferred",
+            "Work experience": "working fully remotely in a startup environment"
+        },
+        "contact_url": "https://boards.greenhouse.io/steercrm/jobs/4292552007"
+    },
+    {
+        "isPosting": true,
+        "company": "Privy",
+        "job_title": "Product/Eng, Frontend/Fullstack, Backend Roles",
+        "job_requirements": "Full-Time",
+        "contact_url": "join [at] privy.io"
+    },
+    {
+        "isPosting": true,
+        "company": "Tailwind Labs",
+        "job_title": "Design Engineer and Staff Software Engineer",
+        "job_requirements": "Full-time",
+        "contact_url": "https://tailwindcss.com/careers/design-engineer and https://tailwindcss.com/careers/staff-software-engineer"
+    },
+    {
+        "isPosting": true,
+        "company": "Hashboard",
+        "job_title": "Senior/Staff Engineer, Lead Frontend Engineer, Product Evangelist",
+        "job_requirements": "product-oriented engineers with strong React skills and experience with data tooling",
+        "contact_url": "https://boards.greenhouse.io/hashboard"
+    },
+    {
+        "isPosting": true,
+        "company": "Your Headway",
+        "job_title": "Senior frontend developer",
+        "job_requirements": {
+            "Vue.js experience": "2+ years",
+            "TypeScript experience": "2+ years",
+            "JavaScript proficiency": "Strong",
+            "Vue.js understanding": "Strong",
+            "HTML5 and CSS3 experience": "Working",
+            "Server-side rendering knowledge": "Yes",
+            "Code quality": "Efficient, secure, clean, scalable",
+            "RESTful APIs experience": "Yes",
+            "English level": "Intermediate-advanced"
+        },
+        "contact_url": "https://nordictechjobs.com/posts/2206"
+    },
+    {
+        "isPosting": true,
+        "company": "Valuecase",
+        "job_title": "Senior Full Stack Software Engineer JavaScript",
+        "job_requirements": "We are looking for a software engineer to work in close collaboration with our tech lead. With your dev team colleagues and product design team you will build a B2B SaaS product defining an entire new product category within the space for sales software: giving complex B2B buying processes the look & feel of simplicity. We use TypeScript, NestJS, and React.",
+        "contact_url": "https://join.com/companies/valuecase/8765137-senior-full-stack-software-engineer-javascript-all-genders"
+    },
+    {
+        "isPosting": true,
+        "company": "Fondant",
+        "job_title": "Frontend Engineer/Design Engineer",
+        "job_requirements": "Design is the core of everything they do, looking for someone who is a frontend ninja with good taste in design, experience with WebGL and knowledge of 3D tools or game engines is a plus",
+        "contact_url": "my username [at] fondant.design"
+    },
+    {
+        "isPosting": true,
+        "company": "Monad Labs",
+        "job_title": "Senior Software Engineers [C++, Rust]",
+        "job_requirements": "System engineering, especially in C++. Bonus for consensus experience. System engineering, especially in Rust. Bonus for consensus experience. Experience building compilers.",
+        "contact_url": "https://boards.greenhouse.io/monad/jobs/4373013005?gh_src=49..."
+    },
+    {
+        "isPosting": true,
+        "company": "Beacon AI",
+        "job_title": [
+            "Advanced Pilot Assistant Software (C++, Python, Flight Software/Feature Engineer)",
+            "iOS Software Engineer",
+            "Senior React Web Application Engineer",
+            "Lead Aircraft System Integration Engineer",
+            "Engineering Manager (coming soon)",
+            "Cloud Infra/DS (coming soon)"
+        ],
+        "job_requirements": {
+            "Advanced Pilot Assistant Software (C++, Python, Flight Software/Feature Engineer)": "build the brains for Murdock",
+            "iOS Software Engineer": "build the primary pilot interface to Murdock",
+            "Senior React Web Application Engineer": "build our web application, Lighthouse. Preferably full-stack (AWS infra)",
+            "Lead Aircraft System Integration Engineer": "interface Murdock into an aircraft and sensors",
+            "Engineering Manager (coming soon)": "Unavailable",
+            "Cloud Infra/DS (coming soon)": "Unavailable"
+        },
+        "contact_url": "https://beaconai.co/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "Frec",
+        "job_title": "Software Engineer",
+        "job_requirements": "Frontend engineer (react, typescript, nextjs, etc.) with 4+ years experience, iOS (SwiftUI, iOS ecosystem tooling, building from scratch) with 4+ years experience",
+        "contact_url": "careers@frec.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Modus",
+        "job_title": "Staff level frontend engineer or Principal Product Designer",
+        "job_requirements": "Staff level frontend engineer - At least 5 years of staff level frontend development experience with Svelte, React, Next.js, Vue (strong preference for Svelte) | Principal Product Designer - Preferably designer with strong rapid prototyping skills, 10+ years of experience with designing B2B software, especially complex dashboards with a lots of data (strong preference for either Fintech or HR tech experience)",
+        "contact_url": "hire@himodus.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Offstream",
+        "job_title": "Founding full stack software engineer",
+        "job_requirements": "Significant experience with front end development OR backend + infra work, ability to work across the entire stack as needed",
+        "contact_url": "hiring@useoffstream.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Soft Arbitrage",
+        "job_title": "CFO, CTO",
+        "job_requirements": {
+            "CFO": "proven track record of fundraising, deep understanding of international business companies, creative mind, meticulous",
+            "CTO": "experience in Python, React, Node.js, AWS, Postgres, Supabase at minimum on code side, AI/ML researcher backgrounds preferred, capable of reading papers quickly, explain, and lead implementation"
+        },
+        "contact_url": "myusername@gmail.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Off2Class",
+        "job_title": "Software Developer",
+        "job_requirements": "- 2-3 years PHP, JavaScript, HTML, CSS\n- Ability to find bugs from reading code and manual testing\n- Experience using SQL to update and retrieve data\n- Experience in front-end and back-end software development\n- Experience with database management and security a plus\n- Ability to carry out back/front-end design and implementation, with minor supervision but full support",
+        "contact_url": "email mike@off2class.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Reef Technologies",
+        "job_title": "Senior Python Backend Engineer",
+        "job_requirements": "Experienced Python engineer with at least 5 years of programming (not necessarily professional), including at least a year with Python. Must have a deep love for Python and the ability to come up with Pythonic solutions to problems.",
+        "contact_url": "https://careers.reef.pl/"
+    },
+    {
+        "isPosting": true,
+        "company": "Lune",
+        "job_title": "Software Engineers, Sales",
+        "job_requirements": "Talented engineer or sales professional who learns quickly and cares about tackling the climate crisis",
+        "contact_url": "https://lune.co/join-us"
+    },
+    {
+        "isPosting": true,
+        "company": "Enveritas",
+        "job_title": "Data Scientist",
+        "job_requirements": "Statistics",
+        "contact_url": "https://www.enveritas.org/jobs/data-scientist/"
+    },
+    {
+        "isPosting": true,
+        "company": "Datadog",
+        "job_title": "Software Engineers",
+        "job_requirements": "Looking for people who can build systems at scale as they process trillions of events per day.",
+        "contact_url": "https://dtdg.co/hnwhoshiring"
+    },
+    {
+        "isPosting": true,
+        "company": "Octocom",
+        "job_title": "Full Stack Developer",
+        "job_requirements": "A bachelor degree in CS or equivalent professional experience",
+        "contact_url": "lukas@octocom.ai"
+    },
+    {
+        "isPosting": true,
+        "company": "Hartwig Medical Foundation",
+        "job_title": "Software Developer ACTIN team",
+        "job_requirements": "Developers that can help with integrating hospital infrastructure and data with cloud-setup, experience with Google Cloud Platform and Kotlin preferred",
+        "contact_url": "https://www.hartwigmedicalfoundation.nl/vacancies/software-d..."
+    },
+    {
+        "isPosting": true,
+        "company": "Anduril Industries",
+        "job_title": "Multiple Roles",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://www.anduril.com/open-roles/"
+    },
+    {
+        "isPosting": true,
+        "company": "University of Michigan",
+        "job_title": "Full-Stack Developer",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://careers.umich.edu/job_detail/245960/full-stack-web-d..."
+    },
+    {
+        "isPosting": true,
+        "company": "Arcadia / Genability",
+        "job_title": "Senior SW Eng",
+        "job_requirements": "We are looking for an analytical and quantitative senior engineer with both Java and Python web application experience -- you need to be comfortable with numbers. React experience a bonus. You should be able to demonstrate domain knowledge in an esoteric or regulated field (energy industry preferred). You will have solved scaling problems on applications with daily request volumes measured with an 'M' and databases measured with a 'TB', or your spellbook is full of pandas incantations.",
+        "contact_url": "https://boards.greenhouse.io/arcadiacareers/jobs/7293665002"
+    },
+    {
+        "isPosting": true,
+        "company": "Codeium",
+        "job_title": "Software Engineer",
+        "job_requirements": "No ML or systems experience required",
+        "contact_url": "https://codeium.com/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "Koddi",
+        "job_title": "Various roles including Senior Software Engineers, Integration Engineer, Integration Engineering Manager, Product Manager, Entry level Software Engineers, Data Scientists, Product Managers",
+        "job_requirements": "Must be a US Citizen or Green Card holder physically located in the US. Specific requirements may vary depending on the role.",
+        "contact_url": "www.koddi.com/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "Sillion",
+        "job_title": "Senior Full-Stack Engineer",
+        "job_requirements": "Experience with Python, ETL pipelines, cloud platforms, and Typescript",
+        "contact_url": "https://www.linkedin.com/jobs/view/3870556761/"
+    },
+    {
+        "isPosting": true,
+        "company": "ID.me",
+        "job_title": "SDE III, SDE IV, SDE V, SDM-III",
+        "job_requirements": "Looking for dedicated, experienced engineers passionate about scalable system architecture, able to lead initiatives in areas like monitoring, automated testing, experimentation, and infrastructure as code. Ideal candidates will champion innovative solutions and exhibit leadership in these critical domains.",
+        "contact_url": "sergey.cherman+hn AT id.me"
+    },
+    {
+        "isPosting": true,
+        "company": "Radar Labs",
+        "job_title": "Software Engineers (full-stack, mobile)",
+        "job_requirements": "Work on core Radar mobile infrastructure built with Kotlin, Objective-C, Swift, as well as wrapper SDKs written in React Native, Flutter and Capacitor. Work on full-stack features across the frontend and backend. Embody our 'Walk a mile' value by walking around to QA and debug the Radar SDK. Push the limits of what is possible with location services on iOS and Android. Have your work run on 100's of millions of devices. Talk to Radar customers and prospects, hear their feedback, incorporate it into your work and make them successful.",
+        "contact_url": "https://apply.workable.com/radarlabs/j/2BC5714908/"
+    },
+    {
+        "isPosting": true,
+        "company": "40GRID",
+        "job_title": "Senior Angular Frontend",
+        "job_requirements": "Tech: Django / Python | Angular | React Native",
+        "contact_url": "jobs [at] 40grid.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Great Question",
+        "job_title": "Rails / React Software Engineers",
+        "job_requirements": "Looking for full-stack & backend engineers (emphasis on Rails) with some product sensibilities who believe in the power of understanding your customers to build world class products.",
+        "contact_url": "ned@greatquestion.co"
+    },
+    {
+        "isPosting": true,
+        "company": "Cambly.com",
+        "job_title": "Sr. Frontend Engineer | Engineering Manager | Staff Platform Engineer | Staff Backend Engineer | Staff Android Engineer | Sr. iOS",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://jobs.ashbyhq.com/Cambly?utm_source=wnopvxR0o8"
+    },
+    {
+        "isPosting": true,
+        "company": "Protect AI",
+        "job_title": "Product Designers, Software Engineers & Solution Architects",
+        "job_requirements": "Senior Product Designer, Senior Software Engineer: Backend, Senior Software Engineer: Frontend, Senior Software Engineer: Infrastructure, Senior Solutions Architect: AI/ML, Senior Solutions Architect: Infrastructure",
+        "contact_url": "https://protectai.com/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "Doublepoint",
+        "job_title": "Multiple roles",
+        "job_requirements": "Full-time",
+        "contact_url": "https://thehub.io/jobs/65b3e2d5b18854e16b64d0e4"
+    },
+    {
+        "isPosting": true,
+        "company": "Jito Labs",
+        "job_title": "Sr. Software Engineer -- Low-Latency Systems",
+        "job_requirements": [
+            "5+ years of systems programming experience writing code in Rust, C, or C++",
+            "Familiar with low latency, high performance and high reliability programming",
+            "Excited to dive into tricky problems and using tools like valgrind and gdb to debug software problems",
+            "Ability to balance the engineering-time tradeoff between perfect and good enough",
+            "Worked at a <50 person startup, have an entrepreneurial mindset"
+        ],
+        "contact_url": "www.jito.wtf"
+    },
+    {
+        "isPosting": true,
+        "company": "EnsoData",
+        "job_title": "Product Manager",
+        "job_requirements": "Manage the discovery process, pitch product opportunities and analyze opportunity costs, and break down projects into whiteboard mock sketches and releaseable slices.",
+        "contact_url": "https://apply.workable.com/ensodata/"
+    },
+    {
+        "isPosting": true,
+        "company": "Rygen",
+        "job_title": "Senior Software Engineer",
+        "job_requirements": "Unavailable",
+        "contact_url": "rparris at rygen.com"
+    },
+    {
+        "isPosting": true,
+        "company": "OGD ict-diensten",
+        "job_title": "Experienced Javascript Engineer",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://www.basisbeeld.nl/vacatures"
+    },
+    {
+        "isPosting": true,
+        "company": "Tenzir",
+        "job_title": "Senior C++ Engineer / (SecOps) Solution Engineer",
+        "job_requirements": "Experience with data-first frontend apps is a great plus.",
+        "contact_url": "https://tenzir.jobs.personio.de"
+    },
+    {
+        "isPosting": true,
+        "company": "Lovable",
+        "job_title": "Founding Engineers, Founding Designer",
+        "job_requirements": "Understanding the user, technical products, and always think about how products they interact with could be more intuitive. Joining our team of AI and product engineers building the software that builds other software.",
+        "contact_url": "anton@lovable.dev"
+    },
+    {
+        "isPosting": true,
+        "company": "Chameleon",
+        "job_title": "Frontend Engineer (React) + Fullstack Engineer (Ruby)",
+        "job_requirements": "Remote before it was cool, $120k - $180k, Full-time",
+        "contact_url": "https://chameleon.io"
+    },
+    {
+        "isPosting": true,
+        "company": "Seen Finance",
+        "job_title": "Multiple Roles",
+        "job_requirements": "Our software is written in Typescript. We use React and React Native. Our data stack uses dbt, Python and BigQuery.",
+        "contact_url": "join-berlin@seen.com"
+    },
+    {
+        "isPosting": true,
+        "company": "Mattermost",
+        "job_title": "Senior Software Design Engineer",
+        "job_requirements": "Work collaboratively on a fast-paced team, own projects end to end, find creative solutions to solve hard customer problems, build custom software solutions using Go, Postgres, Typescript/React",
+        "contact_url": "https://jobs.lever.co/mattermost/baab2878-c4c4-495a-acd2-685..."
+    },
+    {
+        "isPosting": true,
+        "company": "SpaceX",
+        "job_title": "Principal Software Engineer / Security",
+        "job_requirements": "Eligible for all 3 SpaceX locations",
+        "contact_url": "https://grnh.se/949f1ceb2us"
+    },
+    {
+        "isPosting": true,
+        "company": "DispatchHealth",
+        "job_title": "DevOps/Platform Engineer",
+        "job_requirements": "Looking for a person who wants to take ownership and help set direction, then execute it. Experience with EKS, GitHub Actions, ArgoCD, and Terraform preferred.",
+        "contact_url": "https://careers-dispatchhealth.icims.com/jobs/10930/senior-s..."
+    },
+    {
+        "isPosting": true,
+        "company": "Assembled",
+        "job_title": "Software Engineer - Infrastructure",
+        "job_requirements": "Engineer needed to rework critical components of infrastructure, improve caching mechanisms, build data pipelines to support machine learning models",
+        "contact_url": "https://boards.greenhouse.io/assembled/jobs/4410713004"
+    },
+    {
+        "isPosting": true,
+        "company": "76 Software Engineering Group",
+        "job_title": "Software Engineer",
+        "job_requirements": "U.S. CITIZENSHIP REQUIRED. Degrees in Computer Science, Computer Engineering, Electrical Engineering, or closely-related fields.",
+        "contact_url": "76SMXG.Tinker.Careers@us.af.mil"
+    },
+    {
+        "isPosting": true,
+        "company": "Intuition Machines, Inc.",
+        "job_title": "Senior Cyber Security Analysts",
+        "job_requirements": "Expertise in bot detection, web traffic analysis, and deep behavioural analytics",
+        "contact_url": "https://apply.workable.com/imachines/j/4078F5B23A/"
+    },
+    {
+        "isPosting": true,
+        "company": "Assembled",
+        "job_title": "Software Engineer - AI & New Products",
+        "job_requirements": "Frontend focused engineer",
+        "contact_url": "https://boards.greenhouse.io/assembled/jobs/4957681004"
+    },
+    {
+        "isPosting": true,
+        "company": "Rockstar Games",
+        "job_title": ".NET SOFTWARE ENGINEERS",
+        "job_requirements": "Develop highly scalable server-side features for online game console clients using object-oriented development in C#, ASP.NET, and SQL Server. Develop back-end services and APIs. Actively practice Test Driven Development (TDD). Collaborate with other technology teams across worldwide studios.",
+        "contact_url": "https://www.rockstargames.com/careers/"
+    },
+    {
+        "isPosting": true,
+        "company": "SerpApi",
+        "job_title": "Junior-to-Senior Fullstack Engineer",
+        "job_requirements": "Based in Austin, TX but remote-first structure | Full-time | ONSITE or FULLY REMOTE | $150K - 180K a year 1099 for US or local avg + 20% for outside the US",
+        "contact_url": "https://serpapi.com/careers"
+    },
+    {
+        "isPosting": true,
+        "company": "Automattic",
+        "job_title": "Senior Systems Engineer (Systems Wrangler)",
+        "job_requirements": "We're looking for the world's best systems engineers to help build and maintain the infrastructure that supports over a billion people each month across our entire line of products and services such as WordPress.com, WooCommerce, WordPress VIP, Jetpack, Tumblr, Texts.com, Day One, Pocket Casts and many more.",
+        "contact_url": "https://join.a8c.com/hn"
+    },
+    {
+        "isPosting": true,
+        "company": "Hadrian",
+        "job_title": "Product Manager",
+        "job_requirements": "solid technical background and preferably has experience in the cyber security industry",
+        "contact_url": "https://hadrian.io/company/careers/jobs/3573990-product-manager"
+    },
+    {
+        "isPosting": true,
+        "company": "Plotly",
+        "job_title": "Senior Software Engineers, Full Stack, App Studio, Engineering Manager, Product Designer, Customer Success Onboarding Specialist",
+        "job_requirements": "Canada | Remote, Full-Time",
+        "contact_url": "https://boards.greenhouse.io/plotly"
+    },
+    {
+        "isPosting": true,
+        "company": "PostEra",
+        "job_title": "Lead Software Engineer, Platform",
+        "job_requirements": "Hands-on engineering lead, experience with Python, Rust, TypeScript (React), Terraform, AWS",
+        "contact_url": "https://jobs.lever.co/postera/1cd3b746-75e5-47a1-a1a1-311664..."
+    },
+    {
+        "isPosting": true,
+        "company": "Zilliz",
+        "job_title": "DevRel",
+        "job_requirements": "Unavailable",
+        "contact_url": "https://boards.greenhouse.io/zilliz/jobs/4307910005"
+    },
+    {
+        "isPosting": true,
+        "company": "Coder",
+        "job_title": "Full Stack Engineer",
+        "job_requirements": "4-7 yrs of experience in Typescript, React | Strong backend skills preferably in Go. We love seeing active open-source GitHub and side project work",
+        "contact_url": "https://jobs.ashbyhq.com/Coder"
+    }
+]
