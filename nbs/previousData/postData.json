@@ -25,7 +25,7 @@
         "work_schedule": "Full time",
         "contact_url": "john.moberg@tandemhealth.se",
         "tech_stack": ["Python", "TypeScript","React", "k8s", "Azure"],
-        "urls": ["https://tandemhealth.ai",  "https://tandem-health.notion.site/Tandem-Health-Careers-f066"],
+        "urls": ["https://tandemhealth.ai",  "https://tandem-health.notion.site/Tandem-Health-Careers-f066"]
     },
     {
         "company": "Rubie",
@@ -36,7 +36,7 @@
         "company_goal": "helping companies with complex software (ERPs, CRMs, etc) launch with their customers faster by automating the highly repetitive manual tasks that professional services and customer success teams perform using novel agentic infrastructure.",
         "job_requirements": "Experience with complex software (ERPs, CRMs, etc), ability to complete reverse engineering challenge",
         "contact_url": "https://ReverseEngineerThisSite.com",
-        "application_process": "The first step in our process is completing our reverse engineering challenge, which is located here: https://ReverseEngineerThisSite.com",
+        "application_process": "The first step in our process is completing our reverse engineering challenge, which is located here: https://ReverseEngineerThisSite.com"
     },
     {
         "company": "MongoDB",
@@ -46,9 +46,9 @@
         "job_requirements": "experienced Java developer who has expertise in building applications with Hibernate ORM (even better if you are familiar with hibernate-ogm)",
         "contact_url": "https://grnh.se/e29caf031us",
         "tech_stack": ["Java", "Hibernate ORM"],
-        "compensation": "Base + RSU's",
+        "compensation": "Base + RSU's"
     },
-    [{
+    {
         "company": "VALIS Insights",
         "job_title": "Senior Backend Engineer",
         "job_requirements": "Execution-focused engineers who can deliver complex features with autonomy",
@@ -70,10 +70,9 @@
         "company_goal": "reduce global carbon emissions through maximizing the recovery of metals through recycling, which requires a fraction of the energy compared to mining and primary metals production.",
         "company_stage": "seed",
         "urls": ["https://apply.workable.com/valis-insights-1/j/4745C9DC32/", "https://apply.workable.com/valis-insights-1/j/3A06E4C40A/"],
-        "additional_notes": ["backed by leading climate-tech VC's. Product-wise, we integrate recycling processes, equipment/sensors, production, and procurement/sales data to deliver an insights platform that helps metals recovery facilities optimize their processes.","We employ a strong, domain-driven design approach to building our product."],
-    }
-],
-    [{
+        "additional_notes": ["backed by leading climate-tech VC's. Product-wise, we integrate recycling processes, equipment/sensors, production, and procurement/sales data to deliver an insights platform that helps metals recovery facilities optimize their processes.","We employ a strong, domain-driven design approach to building our product."]
+    },
+    {
         "company": "Duolingo",
         "job_title": "Multiple Roles",
         "job_requirements": "Available on the website link provided",
@@ -152,7 +151,7 @@
     {
         "company": "Duolingo",
         "job_title": "Senior Data Scientist, Economics",
-        "location": ["Pittsburgh (PGH)","NYC"]
+        "location": ["Pittsburgh (PGH)","NYC"],
         "job_requirements": "Available on the website link provided",
         "contact_url": "https://grnh.se/41f1af102us",
         "remote/local details": "Hybrid",
@@ -164,7 +163,7 @@
         "company": "Duolingo",
         "job_title": "Staff Data Scientist, Economics",
         "location": ["Pittsburgh (PGH)","NYC"],
-        "job_requirements": "On"
+        "job_requirements": "On",
         "contact_url": "https://grnh.se/41f1af102us",
         "remote/local details": "Hybrid",
         "compensation": "$148,800-$274,600 + equity/benefits",
@@ -186,7 +185,7 @@
         "additional_urls":[ "https://tinyurl.com/yrr8fdwf","https://tinyurl.com/4f57haj3"],
         "additional_notes":[
             "few things in life are as special as doing meaningful work with great people", "opportunity to 10x your growth curve"
-        ],
+        ]
     },
     {
         "isPosting": true,
