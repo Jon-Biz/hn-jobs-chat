@@ -16,13 +16,11 @@ def format_job_result(job_listing):
     return job
 
 # %% ../nbs/09_chatbot/02_search.ipynb 4
-from .keys import keys
-
 def format_results(results):
     formatted_results = []
 
     for job_listing in results:
-        job = format_job_result(job_listing)
+        job = format_job_result(job_listing[0])
 
         formatted_results.append(job)
 
@@ -42,7 +40,7 @@ def search(requirements):
     initial_results = {}
 
     for key in requirements.keys():
-        query = f"SELECT row_to_json({postsTableName}) FROM {postsTableName} WHERE {key} = '{requirements[key]}' LIMIT 10;"
+        query = f"SELECT row_to_json({postsTableName}) FROM {postsTableName} WHERE {key} = '{requirements[key]}' LIMIT 40;"
 
         cursor.execute(query)
 
@@ -56,4 +54,7 @@ def search(requirements):
 
     return initial_results
 
+search({
+    "location": "San Francisco"
+})
 
