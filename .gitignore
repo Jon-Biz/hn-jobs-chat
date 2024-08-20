@@ -313,3 +313,5 @@ checklink/cookies.txt
 # Quarto
 .quarto
 .aider*
+
+hn_jobs_chat
