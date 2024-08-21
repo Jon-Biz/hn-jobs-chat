@@ -6,6 +6,7 @@ __all__ = ['extract_middle_json', 'extractJSON']
 # %% ../nbs/03_pipeline-scrape/03_parse_data.ipynb 6
 import json
 
+
 def extract_middle_json(response):
     # Split the string on '```'
     parts = response.split('```')
@@ -15,5 +16,13 @@ def extract_middle_json(response):
 def extractJSON(response):
     jsonStr = extract_middle_json(response)
 
-    return json.loads(jsonStr)
+    try:
+        result = json.loads(jsonStr)
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON: {e}")
+        print(jsonStr)
+
+        return None
+
+    return result
     

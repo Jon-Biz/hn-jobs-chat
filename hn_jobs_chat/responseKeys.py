@@ -3,7 +3,7 @@
 # %% auto 0
 __all__ = ['initial_keys', 'keyStr', 'exampleOne', 'Response', 'callValidator', 'validate', 'repromptRevalidate']
 
-# %% ../nbs/01_parameters_and_eval/04_response_keys.ipynb 2
+# %% ../nbs/01_parameters_and_eval/04_response_keys.ipynb 3
 # These keys were retreived from previous analysis. The prompts will add any that are needed.
 initial_keys = [
     'company: name of the company',
@@ -32,11 +32,11 @@ initial_keys = [
     'compensation: any compensation and/or benefits described in the job post'
 ]
 
-# %% ../nbs/01_parameters_and_eval/04_response_keys.ipynb 3
+# %% ../nbs/01_parameters_and_eval/04_response_keys.ipynb 5
 keyStr = '\n'.join(initial_keys)
 
 
-# %% ../nbs/01_parameters_and_eval/04_response_keys.ipynb 5
+# %% ../nbs/01_parameters_and_eval/04_response_keys.ipynb 8
 from pydantic import BaseModel, ValidationError
 from langchain_core.prompts import PromptTemplate
 import json
@@ -69,7 +69,6 @@ class Response(BaseModel):
 
 def callValidator(response):
     return Response(**response)
-
 
 keyStr = "List of all possible keys and their descriptions"  # Replace with actual key descriptions
 
@@ -131,33 +130,3 @@ exampleOne = {
 # # Test the function
 # result = validate(exampleOne)
 # print(result)
-
-# %% ../nbs/01_parameters_and_eval/04_response_keys.ipynb 6
-from langchain_core.prompts import PromptTemplate
-
-# Check each god damned key for discrepancies.
-
-# keys = '''
-# job_title: job title for the position. Use the singular tense
-# job_description: description of the job as described in the job post
-# tech_stack: an array. It is list of the names of technologies used by the company. It is not a list of descriptions. Do not return a list of phrases. This is not the same as job requirements list, use that key if the tech stack is not explicitly presented
-# '''    
-
-# promptTemplate = PromptTemplate(template='''Are all the keys on this item: {item} 
-# either an empty string, or match the requirements in this list? 
-# {keys}  If so, return the item. If not, return the item with the keys updated to match the requirements on the list
-# ''')
-
-# item = { 
-#     'job_title': 'programmer',
-#     'job_description': 'a programmer of stuff',
-#     'tech_stack': result.model_dump()['tech_stack']
-# }
-
-# prompt = promptTemplate.format(item=result.model_dump(), keys=keyStr)
-
-# print(prompt)
-# response = getResponse(prompt)    
-
-# response.content
-    

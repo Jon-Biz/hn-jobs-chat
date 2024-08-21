@@ -2,8 +2,8 @@
 
 # %% auto 0
 __all__ = ['model', 'helperPrompt', 'basePrompt', 'chain', 'store', 'with_message_history', 'config', 'requirementsPrompt',
-           'get_session_history', 'remove_previous_RAG_info', 'getRequirementsPrompt', 'getSearchResultsPrompt',
-           'getChatResponse']
+           'searchPrompt', 'get_session_history', 'remove_previous_RAG_info', 'getRequirementsPrompt',
+           'getSearchResultsPrompt', 'getChatResponse']
 
 # %% ../nbs/09_chatbot/0x_chat.ipynb 3
 from langchain_core.messages import HumanMessage, SystemMessage
@@ -16,7 +16,9 @@ model = ChatOpenAI()
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
 helperPrompt  = """You are a job search assistant. 
-You are helping a job searcher find jobs to apply for. From the list of jobs you have, you need to help the job searcher find the jobs that are relevant to them. You can ask the job searcher questions to help you understand what they are looking for.
+You are helping a job searcher find jobs to apply for. From the list of jobs you have, you need to help the job searcher find the jobs that are relevant to them. You can ask the job searcher questions to help you understand what they are looking for. 
+
+The current requirements of that the user has provided will be provided to you with their latest message, along with the search results that the search engine has returned for those requirements. If the search results doesn't return any results let the user know. Do not refer to or discuss any job postings that aren't in the search results. 
 """
 
 basePrompt = ChatPromptTemplate.from_messages(
@@ -87,11 +89,11 @@ def getRequirementsPrompt(requirements):
 # %% ../nbs/09_chatbot/0x_chat.ipynb 10
 from langchain_core.prompts import ChatPromptTemplate
 
-requirementsPrompt = ChatPromptTemplate.from_template(
+searchPrompt = ChatPromptTemplate.from_template(
 """Search results meeting those requirements are: {requirements}""")
 
 def getSearchResultsPrompt(requirements):
-    return requirementsPrompt.format(requirements=requirements)
+    return searchPrompt.format(requirements=requirements)
 
 
 # %% ../nbs/09_chatbot/0x_chat.ipynb 11

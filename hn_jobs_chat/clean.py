@@ -3,17 +3,16 @@
 # %% auto 0
 __all__ = ['getResponse', 'toJsonOrReprompt', 'reprompt', 'isJob']
 
-# %% ../nbs/03_pipeline-scrape/01_clean.ipynb 9
+# %% ../nbs/03_pipeline-scrape/01_clean.ipynb 7
 import json
 import os
 import openai
 
-# openai.api_base = "https://openrouter.ai/api/v1"
 openai.api_key = os.environ.get('OPENAI_API_KEY')
 
 def getResponse(text: str):
     response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o-mini",
         messages=[{"role": "user", "content": text}],
     )
 
