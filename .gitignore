@@ -314,4 +314,5 @@ checklink/cookies.txt
 .quarto
 .aider*
 
+# Rendered notebooks
 hn_jobs_chat
