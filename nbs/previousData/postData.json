@@ -1,0 +1,197 @@
+[
+    {
+        "company": "Irth Solutions",
+        "company_goal": "Improve resilience and reduce risk to critical infrastructure that millions of people and businesses rely on each day",
+        "location": "North America",
+        "job_title": "Senior Software Engineer",
+        "job_requirements": [
+            "C# development experience using .NET Core, WebAPI, and Entity Framework",
+            "Experience building browser applications using Angular and Typescript",
+            "Strong relational database experience with Postgres (preferred) or MS SQL Server including SQL, database functions, indexing, and performance tuning",
+            "Kubernetes, Docker, Linux"
+        ],
+        "tech_stack": ["C#", ".Net Core","WebAPI", "Entity Framework", "Angular", "Typescript", "PostGres", "Kubernetes", "Docker", "Linux"],
+        "contact_url": "https://apply.workable.com/irth-solutions/j/33AD66BA3A/",
+        "additional_notes": "We’re growing, so new positions will open up frequently. Please check back with if this one doesn’t fit your background"
+    },
+    {
+        "company": "Tandem Health",
+        "company_goal": "we're building a clinician copilot to allow clinicians to focus on care rather than administration.",
+        "job_title": "Software Engineer",
+        "location": "Stockholm, Sweden",
+        "company_stage": "seed round",
+        "company_state": "$300k ARR (+35% MoM) with over 50 care providers using the product every day.",
+        "remote/local/hybrid details": "On-site in Stockholm, Sweden",
+        "work_schedule": "Full time",
+        "contact_url": "john.moberg@tandemhealth.se",
+        "tech_stack": ["Python", "TypeScript","React", "k8s", "Azure"],
+        "urls": ["https://tandemhealth.ai",  "https://tandem-health.notion.site/Tandem-Health-Careers-f066"]
+    },
+    {
+        "company": "Rubie",
+        "job_title": "Founding engineer",
+        "location":  "New York City",
+        "work_schedule": "Full time",
+        "remote/local/hybrid details": "Local only",
+        "company_goal": "helping companies with complex software (ERPs, CRMs, etc) launch with their customers faster by automating the highly repetitive manual tasks that professional services and customer success teams perform using novel agentic infrastructure.",
+        "job_requirements": "Experience with complex software (ERPs, CRMs, etc), ability to complete reverse engineering challenge",
+        "contact_url": "https://ReverseEngineerThisSite.com",
+        "application_process": "The first step in our process is completing our reverse engineering challenge, which is located here: https://ReverseEngineerThisSite.com"
+    },
+    {
+        "company": "MongoDB",
+        "job_title": "Software Engineer, Java (Database Experience Team)",
+        "job_description": "High priority + impact + high visibility role!",
+        "remote/local details": "Fully REMOTE(global)",
+        "job_requirements": "experienced Java developer who has expertise in building applications with Hibernate ORM (even better if you are familiar with hibernate-ogm)",
+        "contact_url": "https://grnh.se/e29caf031us",
+        "tech_stack": ["Java", "Hibernate ORM"],
+        "compensation": "Base + RSU's"
+    },
+    {
+        "company": "VALIS Insights",
+        "job_title": "Senior Backend Engineer",
+        "job_requirements": "Execution-focused engineers who can deliver complex features with autonomy",
+        "contact_url": "caleb.ralphs@valisinsights.com",
+        "work_schedule": "Full-time",
+        "remote/local details": "REMOTE (US)",
+        "company_goal": "reduce global carbon emissions through maximizing the recovery of metals through recycling, which requires a fraction of the energy compared to mining and primary metals production.",
+        "company_stage": "seed",
+        "urls": ["https://apply.workable.com/valis-insights-1/j/4745C9DC32/", "https://apply.workable.com/valis-insights-1/j/3A06E4C40A/"],
+        "additional_notes": ["backed by leading climate-tech VC's.\nProduct-wise, we integrate recycling processes, equipment/sensors, production, and procurement/sales data to deliver an insights platform that helps metals recovery facilities optimize their processes.","We employ a strong, domain-driven design approach to building our product."]
+    },
+    {
+        "company": "VALIS Insights",
+        "job_title": "Full-Stack Engineer",
+        "job_requirements": "Execution-focused engineers who can deliver complex features with autonomy",
+        "contact_url": "caleb.ralphs@valisinsights.com",
+        "work_schedule": "Full-time",
+        "remote/local details": "REMOTE (US)",
+        "company_goal": "reduce global carbon emissions through maximizing the recovery of metals through recycling, which requires a fraction of the energy compared to mining and primary metals production.",
+        "company_stage": "seed",
+        "urls": ["https://apply.workable.com/valis-insights-1/j/4745C9DC32/", "https://apply.workable.com/valis-insights-1/j/3A06E4C40A/"],
+        "additional_notes": ["backed by leading climate-tech VC's. Product-wise, we integrate recycling processes, equipment/sensors, production, and procurement/sales data to deliver an insights platform that helps metals recovery facilities optimize their processes.","We employ a strong, domain-driven design approach to building our product."]
+    },
+    {
+        "company": "Duolingo",
+        "job_title": "Multiple Roles",
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },
+    {
+        "company": "Duolingo",
+        "job_title": "Database Reliability Engineer",
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "location": "Pittsburgh (PGH)",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },
+    {
+        "company": "Duolingo",
+        "job_title": "Platform Engineer (PGH)",
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "location": "Pittsburgh (PGH)",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },
+    {
+        "company": "Duolingo",
+        "job_title": "Senior Mobile Engineer, iOS and Android",
+        "location": ["Pittsburgh (PGH)", "NYC", "Seattle"],
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },
+    {
+        "company": "Duolingo",
+        "job_title": "Senior Backend Engineer",
+        "location": "Pittsburgh (PGH)",
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },
+    {
+        "company": "Duolingo",
+        "job_title": "Engineering Manager",
+        "location": "Pittsburgh (PGH)",
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },
+    {
+        "company": "Duolingo",
+        "job_title": "Engineering Director",
+        "location": "Pittsburgh (PGH)",
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },
+    {
+        "company": "Duolingo",
+        "job_title": "Senior Data Scientist, Economics",
+        "location": ["Pittsburgh (PGH)","NYC"],
+        "job_requirements": "Available on the website link provided",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },    
+    {
+        "company": "Duolingo",
+        "job_title": "Staff Data Scientist, Economics",
+        "location": ["Pittsburgh (PGH)","NYC"],
+        "job_requirements": "On",
+        "contact_url": "https://grnh.se/41f1af102us",
+        "remote/local details": "Hybrid",
+        "compensation": "$148,800-$274,600 + equity/benefits",
+        "company_goal": "we are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems.",
+        "additional_notes": "We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!"
+    },
+    {
+        "isPosting": true,
+        "company": "Gattaca",
+        "job_title": "Founding Engineer",
+        "location": "NYC",
+        "remote/local details": "in-person",
+        "work_schedule": "Full-time",
+        "contact_url": "https://trygattaca.com",
+        "company_goal": "build agentic services to increase output of engineering teams, starting by solving client tests on mobile",
+        "company_status": "3 months in: (1) $MRR growing XXX% m/o/m and (2) built v0.1 tech and early cold outreach",
+        "job_requirements": "Searching for an A+ developer/teammate. We do not care about stack, education, age, location, or past titles. All that matters is your heart and whether you can ship faster than us.",
+        "contact_email": "founders@trygattaca.com",
+        "additional_urls":[ "https://tinyurl.com/yrr8fdwf","https://tinyurl.com/4f57haj3"],
+        "additional_notes":[
+            "few things in life are as special as doing meaningful work with great people", "opportunity to 10x your growth curve"
+        ]
+    },
+    {
+        "isPosting": true,
+        "company": "Parakey",
+        "job_title": "Fullstack Developer",
+        "job_requirements": "Experienced with Typescript/Javascript (React.js), Comfortable with backend (Node.js and MongoDB), Preferably experienced with Cloud/AWS, continuous integration/deployment, and other programming languages",
+        "contact_url": "https://join.parakey.co/"
+    }
+]

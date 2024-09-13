@@ -1,0 +1,23 @@
+[
+    {
+        "company": "Irth Solutions",
+        "job_title": "Senior Software Engineer",
+        "job_description": "Build software that improves resilience and reduce risk to critical infrastructure that millions of people and businesses rely on each day. Systems handle millions of requests a day, coordinating activities between critical infrastructure providers, contract locators, excavators, and other stakeholders throughout North America.",
+        "tech_stack": "C# development experience using .NET Core, WebAPI, and Entity Framework. Experience building browser applications using Angular and Typescript. Strong relational database experience with Postgres (preferred) or MS SQL Server including SQL, database functions, indexing, and performance tuning. Kubernetes, Docker, Linux.",
+        "contact_url": "https://apply.workable.com/irth-solutions/j/33AD66BA3A/"
+    },
+    {
+        "company": "Tandem Health",
+        "job_title": "Software Engineer",
+        "location": "Stockholm, Sweden",
+        "employment_type": "Full-time",
+        "job_description": "Building a clinician copilot to allow clinicians to focus on care rather than administration. Already at $300k ARR with over 50 care providers using the product every day. Targeting the European healthcare market.",
+        "company_description": "Recently raised a large seed round and expanding the Stockholm team with exceptional engineers.",
+        "tech_stack": "Python and TypeScript/React running on k8s in Azure",
+        "contact_email": "john.moberg@tandemhealth.se",
+        "additional_urls": [
+            "https://tandemhealth.ai",
+            "https://tandem-health.notion.site/Tandem-Health-Careers-f066"
+        ]
+    }
+]
